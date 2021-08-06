@@ -151,7 +151,7 @@ def loop6():
 print(pyfiglet.figlet_format("UBED BOT TIKTOK", font="slant"))
 print("Author: https://github.com/ubed354311/")
 
-vidUrl = "https://www.tiktok.com/@ubaydillahahyar/video/6983146550746828059" #Change it
+vidUrl = "https://www.tiktok.com/@ruwet.online/video/6948396686897106178" #Change it
 
 bot = int(input("What do you want to do?\n1 - Auto views(1000)\n2 - Auto hearts\n3 - Auto (FIRST) comments heart\n4 - Auto followers\n5 - [NEW]Auto Share\n6 - Simple reload\n"))
 i = 0
